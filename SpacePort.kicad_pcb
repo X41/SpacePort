@@ -168,7 +168,7 @@
     (add_net VBAT)
   )
 
-  (module modchip-2layer:0805-NO (layer Top) (tedit 5B851B8F) (tstamp 5B85075A)
+  (module SpacePort:0805-NO (layer Top) (tedit 5B851B8F) (tstamp 5B85075A)
     (at 144.3736 110.1697 270)
     (path /1B93D2F392C1A28E)
     (fp_text reference C8 (at 2.032 0.127 270) (layer F.SilkS) hide
@@ -188,7 +188,7 @@
       (net 2 3.3V) (solder_mask_margin 0.1397))
   )
 
-  (module modchip-2layer:0805-NO (layer Top) (tedit 5B851B78) (tstamp 5B850764)
+  (module SpacePort:0805-NO (layer Top) (tedit 5B851B78) (tstamp 5B850764)
     (at 150.4696 110.1217 90)
     (path /23009AF2D1512118)
     (fp_text reference C1 (at 2.032 0.127 90) (layer F.SilkS) hide
@@ -208,7 +208,7 @@
       (net 3 VBAT) (solder_mask_margin 0.1397))
   )
 
-  (module modchip-2layer:SOT23-5 (layer Top) (tedit 5B851B7B) (tstamp 5B85076E)
+  (module SpacePort:SOT23-5 (layer Top) (tedit 5B851B7B) (tstamp 5B85076E)
     (at 147.4071 110.0737 90)
     (descr "<b>Small Outline Transistor</b> - 5 Pin")
     (path /978CE552955E12FA)
@@ -242,7 +242,7 @@
       (net 3 VBAT) (solder_mask_margin 0.1397))
   )
 
-  (module modchip-2layer:0603-NO (layer Top) (tedit 5B851B98) (tstamp 5B850782)
+  (module SpacePort:0603-NO (layer Top) (tedit 5B851B98) (tstamp 5B850782)
     (at 149.3901 98.2472)
     (path /FA50F24791680661)
     (fp_text reference C3 (at 1.778 0.127) (layer F.SilkS) hide
@@ -267,7 +267,7 @@
       (net 5 "Net-(C3-Pad1)") (solder_mask_margin 0.1397))
   )
 
-  (module modchip-2layer:32-TQFP (layer Top) (tedit 0) (tstamp 5B850791)
+  (module SpacePort:32-TQFP (layer Top) (tedit 0) (tstamp 5B850791)
     (at 149.0726 103.4542)
     (path /850A8AB0BABD3B23)
     (fp_text reference U$1 (at 0 0) (layer F.SilkS) hide
@@ -357,7 +357,7 @@
       (net 31 "Net-(TP13-PadP$1)") (solder_mask_margin 0.1397))
   )
 
-  (module modchip-2layer:TP20SQ (layer Top) (tedit 5B8507B5) (tstamp 5B8507C3)
+  (module SpacePort:TP20SQ (layer Top) (tedit 5B8507B5) (tstamp 5B8507C3)
     (at 152.6921 113.4237)
     (descr "<b>TEST PAD</b>")
     (path /E74EB8BB93FB0C53)
@@ -374,7 +374,7 @@
       (net 1 GND) (solder_mask_margin 0.1397))
   )
 
-  (module modchip-2layer:TP20SQ (layer Top) (tedit 5B851B75) (tstamp 5B8507C8)
+  (module SpacePort:TP20SQ (layer Top) (tedit 5B851B75) (tstamp 5B8507C8)
     (at 152.5651 109.4867)
     (descr "<b>TEST PAD</b>")
     (path /584DF611AF7E6EF2)
@@ -391,7 +391,7 @@
       (net 3 VBAT) (solder_mask_margin 0.1397))
   )
 
-  (module modchip-2layer:TP20SQ (layer Top) (tedit 5B850793) (tstamp 5B8507CD)
+  (module SpacePort:TP20SQ (layer Top) (tedit 5B850793) (tstamp 5B8507CD)
     (at 149.9743 96.4819)
     (descr "<b>TEST PAD</b>")
     (path /42A89C514B4E01D4)
@@ -408,7 +408,7 @@
       (net 11 /D+) (solder_mask_margin 0.1397))
   )
 
-  (module modchip-2layer:TP20SQ (layer Top) (tedit 5B85079A) (tstamp 5B8507D2)
+  (module SpacePort:TP20SQ (layer Top) (tedit 5B85079A) (tstamp 5B8507D2)
     (at 147.1803 96.4819)
     (descr "<b>TEST PAD</b>")
     (path /73A8DA4B995FED16)
@@ -425,7 +425,7 @@
       (net 12 /D-) (solder_mask_margin 0.1397))
   )
 
-  (module modchip-2layer:TP20SQ (layer Top) (tedit 5B851B86) (tstamp 5B8507D7)
+  (module SpacePort:TP20SQ (layer Top) (tedit 5B851B86) (tstamp 5B8507D7)
     (at 144.3101 113.4237)
     (descr "<b>TEST PAD</b>")
     (path /DD98622291487DA1)
@@ -442,7 +442,7 @@
       (net 6 /SWD) (solder_mask_margin 0.1397))
   )
 
-  (module modchip-2layer:TP20SQ (layer Top) (tedit 5B851B8A) (tstamp 5B8507DC)
+  (module SpacePort:TP20SQ (layer Top) (tedit 5B851B8A) (tstamp 5B8507DC)
     (at 147.1041 113.4237)
     (descr "<b>TEST PAD</b>")
     (path /F37B28B1FBB8F26C)
@@ -459,7 +459,7 @@
       (net 7 /SWC) (solder_mask_margin 0.1397))
   )
 
-  (module modchip-2layer:TP20SQ (layer Top) (tedit 5B851B82) (tstamp 5B8507E1)
+  (module SpacePort:TP20SQ (layer Top) (tedit 5B851B82) (tstamp 5B8507E1)
     (at 149.8981 113.4237)
     (descr "<b>TEST PAD</b>")
     (path /3EDCF93E6613F206)
@@ -476,7 +476,7 @@
       (net 2 3.3V) (solder_mask_margin 0.1397))
   )
 
-  (module modchip-2layer:TP20SQ (layer Top) (tedit 5B850796) (tstamp 5B8507E6)
+  (module SpacePort:TP20SQ (layer Top) (tedit 5B850796) (tstamp 5B8507E6)
     (at 152.7683 96.4819)
     (descr "<b>TEST PAD</b>")
     (path /117562F3A5F4684E)
@@ -493,7 +493,7 @@
       (net 9 /RST) (solder_mask_margin 0.1397))
   )
 
-  (module modchip-2layer:PAD.03X.03 (layer Top) (tedit 0) (tstamp 5B8507EB)
+  (module SpacePort:PAD.03X.03 (layer Top) (tedit 0) (tstamp 5B8507EB)
     (at 143.8275 100.4189)
     (descr "<h3>Electrically Conductive Pad 0.03\" Circle</h3>\nUsed as a test point connection for pogo pins or other debugging tools. \n<p>Specifications:\n<li>Area: 0.03\" x 0.03\"</li>\n</ul></p>\n<p>Example device(s):\n<ul><li>TEST_POINT</li>\n</ul></p>")
     (path /70EBF29CD96F58B6)
@@ -507,7 +507,7 @@
       (net 28 /DI) (solder_mask_margin 0.1397))
   )
 
-  (module modchip-2layer:PAD.03X.03 (layer Top) (tedit 0) (tstamp 5B8507EF)
+  (module SpacePort:PAD.03X.03 (layer Top) (tedit 0) (tstamp 5B8507EF)
     (at 143.8275 101.4349)
     (descr "<h3>Electrically Conductive Pad 0.03\" Circle</h3>\nUsed as a test point connection for pogo pins or other debugging tools. \n<p>Specifications:\n<li>Area: 0.03\" x 0.03\"</li>\n</ul></p>\n<p>Example device(s):\n<ul><li>TEST_POINT</li>\n</ul></p>")
     (path /6C0C61D123AA896A)
@@ -521,7 +521,7 @@
       (net 29 /CI) (solder_mask_margin 0.1397))
   )
 
-  (module modchip-2layer:PAD.03X.03 (layer Top) (tedit 0) (tstamp 5B8507F3)
+  (module SpacePort:PAD.03X.03 (layer Top) (tedit 0) (tstamp 5B8507F3)
     (at 143.8275 102.4001)
     (descr "<h3>Electrically Conductive Pad 0.03\" Circle</h3>\nUsed as a test point connection for pogo pins or other debugging tools. \n<p>Specifications:\n<li>Area: 0.03\" x 0.03\"</li>\n</ul></p>\n<p>Example device(s):\n<ul><li>TEST_POINT</li>\n</ul></p>")
     (path /2877EF4DC11754AB)
@@ -535,7 +535,7 @@
       (net 30 "Net-(TP12-PadP$1)") (solder_mask_margin 0.1397))
   )
 
-  (module modchip-2layer:PAD.03X.03 (layer Top) (tedit 0) (tstamp 5B8507F7)
+  (module SpacePort:PAD.03X.03 (layer Top) (tedit 0) (tstamp 5B8507F7)
     (at 143.8275 103.4161)
     (descr "<h3>Electrically Conductive Pad 0.03\" Circle</h3>\nUsed as a test point connection for pogo pins or other debugging tools. \n<p>Specifications:\n<li>Area: 0.03\" x 0.03\"</li>\n</ul></p>\n<p>Example device(s):\n<ul><li>TEST_POINT</li>\n</ul></p>")
     (path /2ED4F7E8C864F48B)
@@ -549,7 +549,7 @@
       (net 31 "Net-(TP13-PadP$1)") (solder_mask_margin 0.1397))
   )
 
-  (module modchip-2layer:PAD.03X.03 (layer Top) (tedit 0) (tstamp 5B8507FB)
+  (module SpacePort:PAD.03X.03 (layer Top) (tedit 0) (tstamp 5B8507FB)
     (at 143.8275 104.4829)
     (descr "<h3>Electrically Conductive Pad 0.03\" Circle</h3>\nUsed as a test point connection for pogo pins or other debugging tools. \n<p>Specifications:\n<li>Area: 0.03\" x 0.03\"</li>\n</ul></p>\n<p>Example device(s):\n<ul><li>TEST_POINT</li>\n</ul></p>")
     (path /3CCFE5FF2C84B2D)
@@ -563,7 +563,7 @@
       (net 27 "Net-(TP14-PadP$1)") (solder_mask_margin 0.1397))
   )
 
-  (module modchip-2layer:PAD.03X.03 (layer Top) (tedit 0) (tstamp 5B8507FF)
+  (module SpacePort:PAD.03X.03 (layer Top) (tedit 0) (tstamp 5B8507FF)
     (at 143.8275 105.4989)
     (descr "<h3>Electrically Conductive Pad 0.03\" Circle</h3>\nUsed as a test point connection for pogo pins or other debugging tools. \n<p>Specifications:\n<li>Area: 0.03\" x 0.03\"</li>\n</ul></p>\n<p>Example device(s):\n<ul><li>TEST_POINT</li>\n</ul></p>")
     (path /3CCEA68E58F35777)
@@ -577,7 +577,7 @@
       (net 26 "Net-(TP15-PadP$1)") (solder_mask_margin 0.1397))
   )
 
-  (module modchip-2layer:PAD.03X.03 (layer Top) (tedit 0) (tstamp 5B850803)
+  (module SpacePort:PAD.03X.03 (layer Top) (tedit 0) (tstamp 5B850803)
     (at 143.8275 106.5149)
     (descr "<h3>Electrically Conductive Pad 0.03\" Circle</h3>\nUsed as a test point connection for pogo pins or other debugging tools. \n<p>Specifications:\n<li>Area: 0.03\" x 0.03\"</li>\n</ul></p>\n<p>Example device(s):\n<ul><li>TEST_POINT</li>\n</ul></p>")
     (path /21897D77384029E9)
@@ -591,7 +591,7 @@
       (net 25 "Net-(TP16-PadP$1)") (solder_mask_margin 0.1397))
   )
 
-  (module modchip-2layer:PAD.03X.03 (layer Top) (tedit 0) (tstamp 5B850807)
+  (module SpacePort:PAD.03X.03 (layer Top) (tedit 0) (tstamp 5B850807)
     (at 143.8275 107.5309)
     (descr "<h3>Electrically Conductive Pad 0.03\" Circle</h3>\nUsed as a test point connection for pogo pins or other debugging tools. \n<p>Specifications:\n<li>Area: 0.03\" x 0.03\"</li>\n</ul></p>\n<p>Example device(s):\n<ul><li>TEST_POINT</li>\n</ul></p>")
     (path /1145E9036AD8C59F)
@@ -605,7 +605,7 @@
       (net 24 "Net-(TP17-PadP$1)") (solder_mask_margin 0.1397))
   )
 
-  (module modchip-2layer:APA102_2020 (layer Top) (tedit 5B851BB0) (tstamp 5B85080B)
+  (module SpacePort:APA102_2020 (layer Top) (tedit 5B851BB0) (tstamp 5B85080B)
     (at 145.1991 97.5233 90)
     (path /93CD699454307519)
     (fp_text reference U$3 (at 0 0 90) (layer F.SilkS) hide
@@ -651,7 +651,7 @@
       (net 28 /DI) (solder_mask_margin 0.1397))
   )
 
-  (module modchip-2layer:0603-NO (layer Top) (tedit 5B8507DB) (tstamp 5B85081F)
+  (module SpacePort:0603-NO (layer Top) (tedit 5B8507DB) (tstamp 5B85081F)
     (at 145.2753 98.38055 180)
     (path /1A4EAE44B3C0B5DB)
     (fp_text reference C4 (at 1.778 0.127 180) (layer F.SilkS) hide
